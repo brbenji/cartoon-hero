@@ -1,0 +1,20 @@
+header{
+	background-color: #86b6f4;
+	padding: 20px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color:white;
+}
+
+header img{
+	border-radius: 180px;
+	height: 315px;
+	border: 10px solid #FF1111;
+}
+/*<header>
+		<img src="img/profile.jpg">
+		<h1>Veidt</h1>
+	</header>
